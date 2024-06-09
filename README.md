@@ -6,7 +6,7 @@
 
 Посмотрите, как выглядит наш сайт в действии:
 
-![Демо](https://alexanderkoldin.github.io/modimal/)
+[Демо](https://alexanderkoldin.github.io/modimal/)
 
 ## Стек технологий
 
